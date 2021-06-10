@@ -2,11 +2,11 @@
 
 # Project Description
 
-It's a frontend and backend totally seperated project.
-Video Demo Link:
-https://youtu.be/oMImtN5nQt8
+* It's a frontend and backend totally seperated project.
+* Video Demo Link:
+*   https://youtu.be/oMImtN5nQt8
 
-![image-20210609110015797](/Users/andycheng/Library/Application Support/typora-user-images/image-20210609110015797.png)
+![](https://i.imgur.com/nmHpTSc.png)
 
 ### Backend
 
