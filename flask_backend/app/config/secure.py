@@ -4,8 +4,6 @@
 
 __author__ = '七月'
 
-SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:a7935776@localhost/footpanda'
-#     'mysql+cymysql://root:a7935776@localhost/footpanda'
-# 'mysql+pymysql://root:a7935776@localhost/footpanda'
+SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:密碼@localhost/footpanda'
 
 SECRET_KEY = 'daeqwklrqwjerhewrhweqkjrhew'
